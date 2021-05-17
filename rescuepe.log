@@ -1,0 +1,8 @@
+Macrium Reflect Boot Log
+------------------------
+
+Started 1/26/2019 8:58 AM  v7.2.3957
+
+DrvLoad: Successfully loaded x:\drivers\Ethernet\VEN_8086_DEV_15D8\e1d65x64.inf.
+DrvLoad: Successfully loaded x:\drivers\Wifi\VEN_8086_DEV_24FD\netwtw06.inf.
+DrvLoad: Unable to load x:\drivers\Wifi\VEN_8086_DEV_24FD\netvwifibus.inf (Error 0xe000022f).
